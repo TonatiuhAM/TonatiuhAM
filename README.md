@@ -1,12 +1,19 @@
-Hola, qué tal 👋
-
-**Estudiante de Ingeniería en Computación de día ☼ y Entusiasta de Linux & Home Lab de noche ☾**
-
-Próximo Ingeniero en ESIME Culhuacán (IPN);
-Apasionado por entender la tecnología desde sus cimientos (bits & hardware);
-
-- ⚙️ Uso diario: `.c`, `.cpp`, `.asm`, `.sql`, `.java`, `.tsx`, `.bash`
-- 🌍 Mayormente activo en: Mi terminal, configurando servidores y explorando IAs
-- 🚀 Construyendo: Sistema de Predicción de Insumos (Spring Boot + XGBoost)
-- 🌐 Mi Portafolio: [tonatiuham.dev](https://tonatiuham.dev)
-- 💬 Hazme un `ping` sobre: sistemas operativos, hardware, backend, vim, desarrollo
+                   -`
+                  .o+`                 tonatiuh@ipn ---------------------------------
+                 `ooo/                 .OS: ............. Arch Linux / EndeavourOS
+                `+oooo:                .Host: ........... Titulado Ing. en Computación
+               `+oooooo:               .Location: ....... ESIME Culhuacán (IPN)
+               -+oooooo+:              .Uptime: ......... 22 años
+             `/:-:++oooo+:             .Kernel: ......... Automation & Infrastructure
+            `/++++/+++++++:            .WM: ............. Hyprland
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`         .Lang.Program: ... C, C++, ASM, Java, TSX, Bash, SQL
+         ./ooosssso++osssssso+`        .Lang.Spoken: .... Español, English
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.      .Hobbies.Tech: ... Homelab, Servidores, Explorar IAs
+      :osssssss/        osssso+++.     .Hobbies.Life: ... Gimnasio, Lectura, Minecraft
+     /ossssssss/        +ssssooo/-     .Building: ....... My Budget App (T3 STack)
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:  - Contact ------------------------------------
+ `++:.                           `-/+/ .Portfolio: ...... https://tonatiuham.dev
+ .`                                 `/ .Ping_Me_About: .. OS, Backend, Vim, Hardware, Dev
